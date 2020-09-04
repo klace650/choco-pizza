@@ -23,3 +23,6 @@ header{ bord
   float: right;
   padding: 1px;
 }
+.mainBody img{
+margin: auto;
+}
