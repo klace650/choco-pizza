@@ -1,0 +1,25 @@
+header{ bord
+  height: 110px;
+  width: 960px;
+}
+.logo{
+  height: 45px;
+  width: 212px;
+}
+.email {
+  float: right;
+  padding: 1px;
+}
+.social{
+  float: right;
+  padding: 1px;
+}
+.email img {
+  float: right;
+  padding: 1px;
+  padding-left: ;
+}
+.social img{
+  float: right;
+  padding: 1px;
+}
