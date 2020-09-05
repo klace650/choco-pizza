@@ -5,6 +5,24 @@ header{ bord
 .logo{
   height: 45px;
   width: 212px;
+  background-color: lightgreen;
+  position: absolute;
+  left: px;
+  top: 0px;
+  z-index: 1;
+}
+.logo h2 {
+  position: absolute;
+  left: 45px;
+  top: 0px;
+  z-index: 1;
+}
+.logo p{
+  position: absolute;
+  left: 45px;
+  top: 15px;
+  z-index: 1;
+  size: 3px;
 }
 .email {
   float: right;
@@ -17,12 +35,16 @@ header{ bord
 .email img {
   float: right;
   padding: 1px;
-  padding-left: ;
+  padding-left: 2px;
 }
 .social img{
   float: right;
   padding: 1px;
 }
 .mainBody img{
-margin: auto;
+  margin: auto;
 }
+.mainBody{
+  margin-top: 60px;
+}
+.recepie img{}
